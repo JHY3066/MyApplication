@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>장하영</Author>
+  <LastAuthor>장하영</LastAuthor>
+  <Created>2023-05-06T06:09:59Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8604</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" x:Family="Modern" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="대구광역시_북구_안전비상벨위치_20200501_15887">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="32" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="52.8"
+   ss:DefaultRowHeight="17.399999999999999">
+   <Row>
+    <Cell><Data ss:Type="String">안전비상벨관리번호</Data></Cell>
+    <Cell><Data ss:Type="String">설치목적</Data></Cell>
+    <Cell><Data ss:Type="String">설치장소유형</Data></Cell>
+    <Cell><Data ss:Type="String">설치위치</Data></Cell>
+    <Cell><Data ss:Type="String">소재지도로명주소</Data></Cell>
+    <Cell><Data ss:Type="String">소재지지번주소</Data></Cell>
+    <Cell><Data ss:Type="String">위도</Data></Cell>
+    <Cell><Data ss:Type="String">경도</Data></Cell>
+    <Cell><Data ss:Type="String">연계방식</Data></Cell>
+    <Cell><Data ss:Type="String">경찰연계유무</Data></Cell>
+    <Cell><Data ss:Type="String">경비업체연계유무</Data></Cell>
+    <Cell><Data ss:Type="String">관리사무소연계유무</Data></Cell>
+    <Cell><Data ss:Type="String">부가기능</Data></Cell>
+    <Cell><Data ss:Type="String">안전비상벨설치년도</Data></Cell>
+    <Cell><Data ss:Type="String">최종점검일자</Data></Cell>
+    <Cell><Data ss:Type="String">최종점검결과구분</Data></Cell>
+    <Cell><Data ss:Type="String">관리기관명</Data></Cell>
+    <Cell><Data ss:Type="String">관리기관전화번호</Data></Cell>
+    <Cell><Data ss:Type="String">데이터기준일자</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">침산근린A</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 침산동 1170-7</Data></Cell>
+    <Cell><Data ss:Type="Number">35.897064</Data></Cell>
+    <Cell><Data ss:Type="Number">128.584913</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">침산근린B</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 침산동 1329</Data></Cell>
+    <Cell><Data ss:Type="Number">35.897266000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">128.58485899999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">신기근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 산격동 1620</Data></Cell>
+    <Cell><Data ss:Type="Number">35.907327000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">128.608926</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">관음근린</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 구암로 47</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 관음동 1372</Data></Cell>
+    <Cell><Data ss:Type="Number">35.935865999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.54512700000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">태전근린</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 칠곡중앙대로 397-20</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 태전동 938</Data></Cell>
+    <Cell><Data ss:Type="Number">35.931635999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.54616100000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">대불근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 산격동 산2-1</Data></Cell>
+    <Cell><Data ss:Type="Number">35.905363999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">128.615647</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">구암근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 구암동 694</Data></Cell>
+    <Cell><Data ss:Type="Number">35.928435999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">128.556816</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">함지근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 구암동 773</Data></Cell>
+    <Cell><Data ss:Type="Number">35.942287999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">128.56872799999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">동천근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 동천동 950-1</Data></Cell>
+    <Cell><Data ss:Type="Number">35.934446000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">128.55926299999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">연암근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 산격동 산86-1</Data></Cell>
+    <Cell><Data ss:Type="Number">35.899600999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.59858700000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">매천근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 매천동 671</Data></Cell>
+    <Cell><Data ss:Type="Number">35.909204000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">128.54489799999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">서변근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 서변동 1747</Data></Cell>
+    <Cell><Data ss:Type="Number">35.921301999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.595371</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">한강근린</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 사수동 811 (외3)</Data></Cell>
+    <Cell><Data ss:Type="Number">35.898677999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.51360399999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">금호근린</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 한강로 96</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 금호동 815</Data></Cell>
+    <Cell><Data ss:Type="Number">35.895822000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">128.52032500000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">해바라기</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 노원동2가 267</Data></Cell>
+    <Cell><Data ss:Type="Number">35.888789000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">128.57404600000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">들    샘</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 동북로 229</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 복현동 201-20</Data></Cell>
+    <Cell><Data ss:Type="Number">35.896520000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">128.61690999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">팔    달</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 노원동3가 1019</Data></Cell>
+    <Cell><Data ss:Type="Number">35.892795999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.569762</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">북부경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-5104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">신    락</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 관음동 1251</Data></Cell>
+    <Cell><Data ss:Type="Number">35.944642999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">128.544648</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">대    천</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 읍내동 1353</Data></Cell>
+    <Cell><Data ss:Type="Number">35.939177000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">128.555274</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">가    산</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 관음동 1358-4</Data></Cell>
+    <Cell><Data ss:Type="Number">35.937182</Data></Cell>
+    <Cell><Data ss:Type="Number">128.545682</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">샛    별</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 태전동 1046-1</Data></Cell>
+    <Cell><Data ss:Type="Number">35.927621000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">128.54989499999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">송    암</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 관음동 1290</Data></Cell>
+    <Cell><Data ss:Type="Number">35.942991999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.54719800000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">읍    내</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 관음동 1382</Data></Cell>
+    <Cell><Data ss:Type="Number">35.940601000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">128.54966400000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">참 물 샘</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 동천동 872-1</Data></Cell>
+    <Cell><Data ss:Type="Number">35.933956999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">128.556141</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">들    말</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 동천동 880-2</Data></Cell>
+    <Cell><Data ss:Type="Number">35.932617999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">128.558707</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">운    암</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 태암남로11길 19-5</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 구암동 665-2</Data></Cell>
+    <Cell><Data ss:Type="Number">35.926658000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">128.55357000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">진 달 래</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 학정로48길 15</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 구암동 702-4</Data></Cell>
+    <Cell><Data ss:Type="Number">35.925646</Data></Cell>
+    <Cell><Data ss:Type="Number">128.55875900000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">해 당 화</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 구암동 662</Data></Cell>
+    <Cell><Data ss:Type="Number">35.927013000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">128.552728</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">다 람 쥐</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 구암동 679</Data></Cell>
+    <Cell><Data ss:Type="Number">35.926163000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">128.55529300000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">구암어린이공원</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">대구광역시 북구 구암동 700</Data></Cell>
+    <Cell><Data ss:Type="Number">35.926423999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.55925099999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">태전근린2</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 칠곡중앙대로 397-20</Data></Cell>
+    <Cell><Data ss:Type="String">대구광역시 북구 태전동 938</Data></Cell>
+    <Cell><Data ss:Type="Number">35.931635999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">128.54616100000001</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell><Data ss:Type="String">경고등,경보음</Data></Cell>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-04-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">강북경찰서</Data></Cell>
+    <Cell><Data ss:Type="String">053-380-3104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2020-05-01T00:00:00.000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
